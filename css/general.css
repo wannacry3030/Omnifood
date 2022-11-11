@@ -34,7 +34,8 @@ paragraph default: 1.6
 #333
 
 --- 05 shadows:
-
+ box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+ 
 --- 06 BORDER-RADIUS
 default: 9px
 medium: 11px
